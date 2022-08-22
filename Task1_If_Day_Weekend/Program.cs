@@ -14,7 +14,7 @@ switch(a)
     break;
 
     default:
-    Console.WriteLine("This number is wrong, please try again!");
+    Console.WriteLine("This number is wrong, please try again!!");
     break;
 
 }
