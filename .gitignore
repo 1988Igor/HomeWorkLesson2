@@ -1,2 +1,3 @@
 .obj
 .csproj
+bin/debug/net6.0
